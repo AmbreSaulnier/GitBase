@@ -1,0 +1,88 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+	/*en cas de navbar fixée en haut*/
+	padding-top:70px;
+	background-color: #20B2AA;
+}
+.container{
+	background-color:rgba(0, 128, 128, 0.5);
+	color: #FFFFFF;
+}
+
+.container-fluid{
+	background-color:teal;
+	color:white;
+
+}
+
+.b1{
+	background-color: pink;
+	height: 60px;
+}
+
+.b2{
+	background-color: purple;
+	height: 60px;
+}
+
+.b3{
+	background-color:gold ;
+	height: 60px;
+}
+
+.b4{
+	background-color:indianred;
+	height: 60px;
+}
+
+.b5{
+	background-color:lightblue;
+	height: 60px;
+}
+
+.b6{
+	background-color:lightgreen;
+	height: 60px;
+}
+
+
+.b7{
+	background-color:orange;
+	height: 60px;
+}
+
+.b8{
+	background-color:grey;
+	height: 60px;
+	color:white;
+}
+
+.b9{
+	background-color:blue;
+	height: 60px;
+	color:white;
+}
+
+.img-responsive{
+	width: 100%;
+}
+
+.dropdown-header li{
+	color:black;
+}
+
+.media-left{
+	width:150px;
+}
+
+.media-left .media-object{
+	width:100%;
+}
+.modal-body p{
+	color:indigo;
+}
